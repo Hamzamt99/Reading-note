@@ -18,7 +18,7 @@ How to remindes my self to keep in a groth mindset :
 
 |Name|Age|Major|My profile
 |-----|-----|-----|------
-|Hamza|22|Software engineer|https://github.com/Hamzamt99
+|Hamza|22|Software engineer|[Profile](https://github.com/Hamzamt99)
 
 
 [Gmail](https://mail.google.com/)
