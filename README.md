@@ -16,9 +16,9 @@ How to remindes my self to keep in a groth mindset :
 - *Work hard and persistently*
 - *Learn from my mistakes and the mistakes of others*
 
-|Name|Age|Major
-|-----|-----|-----
-|Hamza|22|Software engineer 
+|Name|Age|Major|My profile
+|-----|-----|-----|------
+|Hamza|22|Software engineer|https://github.com/Hamzamt99
 
 
 [Gmail](https://mail.google.com/)
